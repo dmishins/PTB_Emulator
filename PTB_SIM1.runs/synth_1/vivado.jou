@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Jul 31 15:35:36 2019
+# Process ID: 8882
+# Current directory: /media/dmishins/1AD0BEB7D0BE9909/Users/Daniel/Desktop/Research/FPGA/DEV_BOARD/PROJECTS/PTB_SIM1/PTB_SIM1.runs/synth_1
+# Command line: vivado -log main.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source main.tcl
+# Log file: /media/dmishins/1AD0BEB7D0BE9909/Users/Daniel/Desktop/Research/FPGA/DEV_BOARD/PROJECTS/PTB_SIM1/PTB_SIM1.runs/synth_1/main.vds
+# Journal file: /media/dmishins/1AD0BEB7D0BE9909/Users/Daniel/Desktop/Research/FPGA/DEV_BOARD/PROJECTS/PTB_SIM1/PTB_SIM1.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source main.tcl -notrace
